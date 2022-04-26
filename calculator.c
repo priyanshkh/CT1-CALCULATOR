@@ -12,7 +12,7 @@ int main()
     scanf (" %d", &n2);
       
     if (choice == '+')  
-    {  //bsdk calculator khareed le dukaan se
+    {  
         ans = n1 + n2;
         printf (" Addition of %d and %d: %f", n1, n2, ans);  
     }  
